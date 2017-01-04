@@ -55,7 +55,7 @@ Materialize Css
 
 
 .parallax-container {
-  min-height: 550px;
+  min-height: 100%;
   line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);
