@@ -375,3 +375,13 @@ Main components
     bottom: 40px;
   }
 }
+
+
+/*
+* Override MaterializeCSS
+*/
+
+.parallax img{
+  min-width:1920px !important;
+  margin:-11% auto;
+}
