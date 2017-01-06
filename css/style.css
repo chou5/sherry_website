@@ -29,6 +29,8 @@ html {
     height: 100%;
 }
 
+
+
 a {
     color: #3e3947;
     text-decoration: none;
@@ -124,7 +126,7 @@ Main components
 }
 
 .cd-section:nth-of-type(odd) {
-    background-color: #3e3947;
+    background-color: #B4DBC0;
 }
 
 .cd-section:nth-of-type(odd) p {
@@ -132,12 +134,18 @@ Main components
 }
 
 .cd-section:nth-of-type(even) {
-    background-color: #745360;
+    background-color: #CAE4DB;
 }
 
 .cd-section:nth-of-type(even) p {
     color: #bda3ad;
 }
+
+p {
+  line-height: 2rem;
+}
+
+/* -------------------------------- 
 
 .cd-section h1,
 .cd-section p {
@@ -179,6 +187,8 @@ Main components
         line-height: 2;
     }
 }
+
+-------------------------------- */
 
 .cd-scroll-down {
     position: absolute;
